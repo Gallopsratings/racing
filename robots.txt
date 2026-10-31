@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gallopsratings.github.io/racing/sitemap.xml
