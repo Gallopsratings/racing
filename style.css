@@ -32,6 +32,8 @@ h2:after{content:"";flex:1;height:2px;background:linear-gradient(90deg,var(--gol
 .stat .v{font-family:"Playfair Display",Georgia,serif;font-size:30px;font-weight:700;line-height:1}
 .stat .v small{font-family:Inter,sans-serif;font-size:13px;color:var(--muted);font-weight:600;margin-left:4px}
 .stat .l{font-size:12px;color:var(--muted);margin-top:6px}
+.stats.two{grid-template-columns:1fr 1fr;margin-top:10px}.stat.sm .v{font-size:24px}.stat .vs{white-space:nowrap}
+@media (max-width:560px){.stats.two .stat:first-child{grid-column:auto}}
 .stat.hi{border-color:var(--gold);background:linear-gradient(180deg,rgba(201,162,74,.12),transparent 70%),var(--card)}
 .note{font-size:12.5px;color:var(--muted);margin:8px 2px 0}
 .list{display:grid;gap:10px}
@@ -80,7 +82,9 @@ td.h{text-align:left;white-space:normal;font-weight:600;min-width:80px;overflow-
 tr.top1 td{background:rgba(201,162,74,.13)}
 tr.top1 td.h{font-weight:800}
 tr.won td{background:var(--winbg)}
-tr.nr td{opacity:.45;text-decoration:line-through}
+tr.nr td{opacity:.5}tr.nr td:not(.h),tr.nr .hn{text-decoration:line-through}
+.nrtag{font-size:10px;font-weight:800;background:var(--lose);color:#fff;border-radius:4px;padding:1px 5px;margin-left:4px;text-decoration:none;display:inline-block}
+.rd{padding:7px 14px;font-size:12.5px;color:var(--muted);background:var(--chip);border-bottom:1px solid var(--line)}
 .pct{font-weight:700}
 .bar2{height:4px;background:var(--chip);border-radius:3px;margin-top:4px;min-width:44px}.bar2 i{display:block;height:100%;background:var(--gold);border-radius:3px}
 tr.hr{cursor:pointer}tr.hr:hover td{background:rgba(201,162,74,.07)}
