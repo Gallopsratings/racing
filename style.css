@@ -16,6 +16,7 @@ a{color:inherit}
 .bar .sp{flex:1}
 .btn{display:inline-flex;align-items:center;gap:6px;background:var(--gold);color:#16261f;text-decoration:none;font-weight:700;font-size:13px;
 padding:8px 14px;border-radius:999px;white-space:nowrap}
+.bar .btn+.btn{margin-left:6px}
 .btn.ghost{background:transparent;color:#fff;border:1px solid rgba(255,255,255,.35)}
 .hero{background:radial-gradient(1200px 300px at 85% -40%,rgba(201,162,74,.28),transparent 60%),linear-gradient(180deg,var(--green) 0%,var(--green2) 100%);
 color:#fff;padding:26px 0 30px;margin-bottom:24px;position:relative;overflow:hidden}
@@ -120,6 +121,7 @@ padding:12px 14px;margin:0 0 8px;box-shadow:var(--shadow)}
 padding:4px 8px;border-radius:999px;white-space:nowrap}
 .nextoff a{flex:1;text-decoration:none;display:flex;flex-direction:column}.nextoff a span{font-size:13px;color:var(--muted)}
 .nextoff .cd{font-family:"Playfair Display",Georgia,serif;font-weight:700;font-size:20px;white-space:nowrap}
+.pk .vp{font-size:12px;font-weight:600;margin-top:3px}.pk .valtag{margin-left:0}.pk .h .valtag{margin-left:4px}
 .pk.next{background:rgba(201,162,74,.16)}.pk.gone{opacity:.55}
 .hist{width:100%;border-collapse:collapse;font-size:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
 .hist th,.hist td{padding:9px 10px;text-align:right}
