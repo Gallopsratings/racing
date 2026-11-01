@@ -128,6 +128,7 @@ padding:4px 8px;border-radius:999px;white-space:nowrap}
 .hist td{border-top:1px solid var(--line)}.histwrap{border-radius:14px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line)}
 .chart{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 10px 6px;box-shadow:var(--shadow)}
 .chart svg{width:100%;height:auto;display:block}.chart .cap{font-size:12px;color:var(--muted);margin:4px 6px 4px}
+.split{display:block;font-size:11px;color:var(--muted);font-weight:600}
 .daynav{display:flex;justify-content:space-between;gap:10px;margin:18px 0 0}
 .daynav a{font-weight:700;font-size:14px;text-decoration:none;background:var(--card);border:1px solid var(--line);
 border-radius:999px;padding:8px 14px;box-shadow:var(--shadow)}
