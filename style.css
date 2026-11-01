@@ -127,6 +127,9 @@ padding:4px 8px;border-radius:999px;white-space:nowrap}
 .hist td{border-top:1px solid var(--line)}.histwrap{border-radius:14px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line)}
 .chart{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 10px 6px;box-shadow:var(--shadow)}
 .chart svg{width:100%;height:auto;display:block}.chart .cap{font-size:12px;color:var(--muted);margin:4px 6px 4px}
+.tabs{display:flex;gap:6px;margin:0 0 10px}.tab{font:inherit;font-size:13px;font-weight:700;border:1px solid var(--line);
+background:var(--card);color:var(--ink);padding:6px 14px;border-radius:999px;cursor:pointer}
+.tab.on{background:var(--green2);color:#fff;border-color:var(--green2)}
 .more-link{display:inline-block;margin-top:10px;font-weight:700;font-size:14px;color:var(--green3)}
 @media (prefers-color-scheme:dark){.more-link{color:var(--gold2)}}
 .legend{font-size:13px;color:var(--muted);margin:0 0 16px}.legend b{color:var(--ink)}
