@@ -127,7 +127,7 @@ padding:4px 8px;border-radius:999px;white-space:nowrap}
 .hist th,.hist td{padding:9px 10px;text-align:right}
 .hist th{font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
 @media (max-width:560px){.hist{font-size:13px}.hist th,.hist td{padding:8px 6px}}.hist th:first-child,.hist td:first-child{text-align:left}
-.hist td{border-top:1px solid var(--line)}.histwrap{border-radius:14px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line)}
+.hist td{border-top:1px solid var(--line);white-space:normal}.histwrap{border-radius:14px;overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line)}
 .chart{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 10px 6px;box-shadow:var(--shadow)}
 .chart svg{width:100%;height:auto;display:block}.chart .cap{font-size:12px;color:var(--muted);margin:4px 6px 4px}
 .split{display:block;font-size:11px;color:var(--muted);font-weight:600}
@@ -200,6 +200,13 @@ padding:6px 12px;border-radius:999px;cursor:pointer}.ftab span{opacity:.6;margin
 .wor i{display:block;font-style:normal;font-family:Inter,sans-serif;font-size:10px;color:var(--muted);font-weight:800}
 @media (prefers-color-scheme:dark){.wor{color:var(--gold2)}}
 .wt{font-weight:700;font-size:13.5px}.wd{font-size:12.5px;color:var(--muted)}
+.cdb{display:inline-block;font-size:10px;font-weight:800;background:var(--green2);color:#fff;border-radius:4px;padding:1px 5px;
+vertical-align:middle;margin-left:3px;letter-spacing:.04em}
+.whb{display:inline-block;font-size:10px;font-weight:800;background:#b7791f;color:#fff;border-radius:4px;padding:1px 5px;
+vertical-align:middle;margin-left:3px}
+.htags{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:12px 0 0}.htags .cdb,.htags .whb{font-size:11.5px;padding:3px 8px;margin:0}
+.tagtxt{font-size:12.5px;color:var(--muted);margin-right:10px}
+.since{margin:10px 2px 0;font-size:14px}
 .daynav{display:flex;justify-content:space-between;gap:10px;margin:18px 0 0}
 .daynav a{font-weight:700;font-size:14px;text-decoration:none;background:var(--card);border:1px solid var(--line);
 border-radius:999px;padding:8px 14px;box-shadow:var(--shadow)}
