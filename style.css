@@ -166,6 +166,24 @@ letter-spacing:.06em;margin-right:4px}
 .rcb{flex:1;min-width:0}.rch{font-weight:700;display:flex;gap:8px;align-items:baseline}.rcp{margin-left:auto;font-weight:800;color:var(--green3)}
 .rcf{font-size:12px;color:var(--muted);margin-top:2px}
 @media (prefers-color-scheme:dark){.rcp{color:var(--gold2)}}
+a.hlink{text-decoration:none;border-bottom:1px dotted var(--gold)}
+.proflink{margin:0 0 8px}.proflink a{font-weight:700;font-size:13px;color:var(--green3)}
+@media (prefers-color-scheme:dark){.proflink a{color:var(--gold2)}}
+.facts.hf{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;box-shadow:var(--shadow)}
+.big2{font-weight:700;font-size:15px}.p2{margin-left:auto;font-weight:800;text-align:right}
+.sub3{font-size:15px;margin:16px 0 8px}
+.ftabs{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}
+.ftab{font:inherit;font-size:12.5px;font-weight:700;border:1px solid var(--line);background:var(--card);color:var(--ink);
+padding:6px 12px;border-radius:999px;cursor:pointer}.ftab span{opacity:.6;margin-left:3px}
+.ftab.on{background:var(--green2);color:#fff;border-color:var(--green2)}
+.hft{font-size:12px}.hft td{white-space:nowrap}.hft .fr2{display:block}.hft .rt2{display:block;color:var(--muted);font-size:11px;white-space:normal;min-width:180px}
+.wcode{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;margin-bottom:12px;box-shadow:var(--shadow)}
+.wh{background:var(--chip);padding:9px 14px;font-weight:800}.wh span{font-weight:500;color:var(--muted);font-size:13px;margin-left:6px}
+.wr{display:flex;gap:12px;padding:10px 14px;border-top:1px solid var(--line)}
+.wor{font-family:"Playfair Display",Georgia,serif;font-size:24px;font-weight:700;min-width:46px;text-align:center;color:var(--green3)}
+.wor i{display:block;font-style:normal;font-family:Inter,sans-serif;font-size:10px;color:var(--muted);font-weight:800}
+@media (prefers-color-scheme:dark){.wor{color:var(--gold2)}}
+.wt{font-weight:700;font-size:13.5px}.wd{font-size:12.5px;color:var(--muted)}
 .daynav{display:flex;justify-content:space-between;gap:10px;margin:18px 0 0}
 .daynav a{font-weight:700;font-size:14px;text-decoration:none;background:var(--card);border:1px solid var(--line);
 border-radius:999px;padding:8px 14px;box-shadow:var(--shadow)}
