@@ -118,6 +118,7 @@
   <url><loc>https://gallopsratings.github.io/racing/2026-11-25/index.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/2026-11-26/index.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/2026-11-26/lingfield.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/2026-11-26/market-rasen.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/2026-11-26/taunton.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/course/aintree-jumps.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/course/ascot-jumps.html</loc></url>
@@ -396,6 +397,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/10114603.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10114631.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10114635.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/10114796.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10114797.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10114915.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10114941.html</loc></url>
@@ -420,6 +422,9 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/10115454.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10115455.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/10115556.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/10115730.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/10115731.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/10115733.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/1207729.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/1332670.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/1354050.html</loc></url>
@@ -688,6 +693,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/3509829.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/3509923.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/3513237.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/3513257.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/3513375.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/3516658.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/3519822.html</loc></url>
@@ -937,9 +943,11 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4173272.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175158.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175161.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4175199.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175201.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175221.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175225.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4175249.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175283.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175291.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4175302.html</loc></url>
@@ -972,6 +980,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4189606.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4191645.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4197067.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4197086.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4199208.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4201341.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4201344.html</loc></url>
@@ -986,6 +995,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4213714.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4213779.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4215668.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4215679.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4215697.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4217504.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4217515.html</loc></url>
@@ -1277,11 +1287,14 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4664825.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4666929.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4668926.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4668930.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4668938.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4668944.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4668953.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4668958.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4668967.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4669043.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4669050.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4672794.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4672800.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4676209.html</loc></url>
@@ -1294,6 +1307,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4678765.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4682863.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4682873.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4682889.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4682893.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4682894.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4682991.html</loc></url>
@@ -1404,6 +1418,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4884899.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4888710.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4888731.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4891168.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4891175.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893260.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893265.html</loc></url>
@@ -1412,6 +1427,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/4893325.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893326.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893330.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/4893343.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893375.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893379.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/4893395.html</loc></url>
@@ -1599,6 +1615,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5036838.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5038608.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5045864.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5045948.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5045982.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5045993.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5047946.html</loc></url>
@@ -1633,6 +1650,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5061496.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5061526.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5061530.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5061621.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5061638.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5063633.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5063637.html</loc></url>
@@ -1967,6 +1985,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5504605.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5504608.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5511334.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5511341.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5511509.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5511513.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5521265.html</loc></url>
@@ -2000,6 +2019,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5580107.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5580138.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5587081.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5587084.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5587086.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5589818.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5592571.html</loc></url>
@@ -2018,6 +2038,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5616448.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5624623.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5627433.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5627438.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5627439.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5633052.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5633053.html</loc></url>
@@ -2163,6 +2184,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5764654.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5764659.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5764774.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5770623.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5770625.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5770636.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5776282.html</loc></url>
@@ -2281,6 +2303,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/5864605.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5864609.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5864611.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/5864624.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5864628.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5864633.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/5864635.html</loc></url>
@@ -2813,6 +2836,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/6782170.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6790213.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6790226.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/6796762.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6798292.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6802991.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6802992.html</loc></url>
@@ -2859,6 +2883,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/6860002.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6864640.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6868946.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/6868951.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6868956.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6873166.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/6873169.html</loc></url>
@@ -2953,6 +2978,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/7082571.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7082575.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7082577.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/7082581.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7082591.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7082600.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7082609.html</loc></url>
@@ -2996,6 +3022,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/7148056.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7152225.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7160496.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/7164960.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7164961.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7169678.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7169687.html</loc></url>
@@ -3012,6 +3039,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/7169814.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7169819.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7169825.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/7169837.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7169841.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7169845.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7174472.html</loc></url>
@@ -3109,6 +3137,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/7272451.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7276576.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7276577.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/7276583.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7280798.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7289170.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7289171.html</loc></url>
@@ -3654,6 +3683,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/7957281.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7961711.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7961712.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/7966342.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7966343.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7966349.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/7970711.html</loc></url>
@@ -3747,6 +3777,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/8079927.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8079929.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8079930.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/8079934.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8079938.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8079956.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8084427.html</loc></url>
@@ -4244,12 +4275,14 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/8730132.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8748933.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8748938.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/8748939.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753780.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753783.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753800.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753803.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753804.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753807.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/8753808.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753810.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8753888.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8758166.html</loc></url>
@@ -4347,6 +4380,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/8881565.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8886018.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8890824.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/8890825.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8890826.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8890832.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8899527.html</loc></url>
@@ -4399,6 +4433,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/8940393.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8940398.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8940405.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/8940413.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8940414.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8940438.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8945011.html</loc></url>
@@ -4407,6 +4442,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/8949359.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8949361.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8949362.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/8949363.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8954000.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8954014.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/8968451.html</loc></url>
@@ -4520,6 +4556,7 @@
   <url><loc>https://gallopsratings.github.io/racing/horse/9088322.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/9088323.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/9088384.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/horse/9088385.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/9092887.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/9092931.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/horse/9097210.html</loc></url>
@@ -5246,6 +5283,7 @@
   <url><loc>https://gallopsratings.github.io/racing/jockey/daniel-king.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/jockey/daniel-muscutt.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/jockey/daniel-sansom.html</loc></url>
+  <url><loc>https://gallopsratings.github.io/racing/jockey/danny-gilligan.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/jockey/danny-mcmenamin.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/jockey/darragh-keenan.html</loc></url>
   <url><loc>https://gallopsratings.github.io/racing/jockey/darragh-o-keeffe.html</loc></url>
